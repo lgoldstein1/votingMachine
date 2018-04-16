@@ -6,6 +6,12 @@ if ($password == 24601) {
            window.location = "vmVoter.php";
            </script>';
 }
+elseif ($password == 42) {
+    echo "Correct admin password, ending voting session...";
+    echo '<script type="text/javascript">
+           window.location = "vmVoteTotal.php";
+           </script>';
+}
 else {
     echo 'Invalid password, redirecting to home page';
     echo '<script type="text/javascript">
