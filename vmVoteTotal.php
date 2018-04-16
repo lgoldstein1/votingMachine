@@ -15,21 +15,24 @@
 <body>
 <div class="header">Voting Session Concluded</div>
 <p>Vote Results</p>
-<p>First Vote</p>
+First Vote
 Mercuri: 3
 Castellucio: 2
 Biden: 3
 Squirrel: 1
 Cookie: 7
-<p>Second Vote</p>
+<p></p>
+Second Vote
 Hill: 5
 Juall: 4
 Dog: 7
 Caldwell: 4
 Fries: 12
-<p>Third Vote</p>
+<p></p>
+Third Vote
 Yes: 24
 No: 5
+<p></p>
 <a class="btn btn-primary" href="index.php" name="home">Back To Home</a>
 </body>
 </html>
