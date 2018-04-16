@@ -1,0 +1,11 @@
+body {color: deepskyblue;
+    text-align: justify;
+    padding: 16px;
+    align-content: center;
+}
+div.header {font-size: 48px;
+}
+
+div.prompt {font-size: 24px;
+}
+p {font-size: 16px}
