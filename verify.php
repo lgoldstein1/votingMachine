@@ -9,7 +9,7 @@ if ($password == 42) {
 else {
     echo 'Invalid password, redirecting to home page';
     echo '<script type="text/javascript">
-           window.location = "vmIndex.php";
+           window.location = "index.php";
            </script>';
 }
 ?>
